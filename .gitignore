@@ -27,3 +27,4 @@ test.*
 *.jpg~
 *.jpeg
 
+node_modules
