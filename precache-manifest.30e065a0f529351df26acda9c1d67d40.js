@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "33a027db659d900a5baef48fae55e570",
+    "revision": "41c01f13efcc54554b4bb2633929fc52",
     "url": "/Health-care-KW-2019-client/index.html"
   },
   {
-    "revision": "cd1874474800a9bee867",
+    "revision": "d889ed624e73e555b22d",
     "url": "/Health-care-KW-2019-client/static/css/main.65b06b02.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Health-care-KW-2019-client/static/js/2.c8d3fc33.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cd1874474800a9bee867",
-    "url": "/Health-care-KW-2019-client/static/js/main.2bfa6489.chunk.js"
+    "revision": "d889ed624e73e555b22d",
+    "url": "/Health-care-KW-2019-client/static/js/main.55d287fe.chunk.js"
   },
   {
     "revision": "c48afa09c1ffbcf71cb8",
